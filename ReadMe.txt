@@ -1,0 +1,1 @@
+read data from Database and write JSON using JDBC & insert JSON array into a database using JDBC.
